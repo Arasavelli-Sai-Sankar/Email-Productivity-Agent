@@ -1,0 +1,203 @@
+{
+  "emails": [
+    {
+      "id": "e1",
+      "sender": "Alice Smith <alice@example.com>",
+      "subject": "Project Phoenix Update - Phase 1 Complete!",
+      "timestamp": "2024-07-26T10:00:00Z",
+      "body": "Hi Team,\n\nExciting news! Phase 1 of Project Phoenix has been successfully completed ahead of schedule. We hit all our key milestones, thanks to everyone's hard work.\n\nNext steps involve planning for Phase 2, which will focus on user testing and feedback collection. Please review the attached document outlining the preliminary plan for Phase 2. We'll have a sync meeting next Monday at 11 AM to discuss it. Your input is crucial.\n\nBest,\nAlice",
+      "category": "Project Update",
+      "actionItems": [
+        { "task": "Review preliminary plan for Phase 2" },
+        { "task": "Attend sync meeting next Monday at 11 AM", "deadline": "next Monday at 11 AM" }
+      ]
+    },
+    {
+      "id": "e2",
+      "sender": "Newsletter Daily <newsletter@news.com>",
+      "subject": "Your Daily Tech Briefing - AI Advancements & Quantum Computing",
+      "timestamp": "2024-07-26T09:30:00Z",
+      "body": "Good morning!\n\nWelcome to your daily dose of tech news. Today's edition covers the latest breakthroughs in AI ethics and the surprising progress in quantum computing research. We also feature an interview with Dr. Evelyn Reed on the future of sustainable tech.\n\nRead more on our website: [link_to_article]\n\nUnsubscribe here if you no longer wish to receive these updates.",
+      "category": "Newsletter"
+    },
+    {
+      "id": "e3",
+      "sender": "Boss Man <boss@company.com>",
+      "subject": "Urgent: Client X Presentation Tomorrow!",
+      "timestamp": "2024-07-25T17:45:00Z",
+      "body": "Team,\n\nThe Client X presentation is set for tomorrow at 9 AM sharp. I need everyone to double-check their slides and be ready. John, please ensure the data analytics section is polished. Sarah, confirm all demo environments are operational. I expect full readiness.\n\nSee you bright and early.\nRegards,\nBoss Man",
+      "category": "Important",
+      "actionItems": [
+        { "task": "Double-check slides" },
+        { "task": "Ensure data analytics section is polished", "deadline": "tomorrow 9 AM" },
+        { "task": "Confirm all demo environments are operational", "deadline": "tomorrow 9 AM" }
+      ]
+    },
+    {
+      "id": "e4",
+      "sender": "Sales Offer <sales@offer.xyz>",
+      "subject": "Exclusive Deal! Get 50% Off Your Next Purchase!",
+      "timestamp": "2024-07-26T11:15:00Z",
+      "body": "Hello valued customer,\n\nDon't miss out on our limited-time offer! Use code SAVEBIG at checkout to get 50% off all items. This offer expires in 24 hours!\n\nShop now: [link_to_shop]\n\nTerms and conditions apply.",
+      "category": "Spam"
+    },
+    {
+      "id": "e5",
+      "sender": "Meeting Coordinator <meetings@company.com>",
+      "subject": "Invitation: Quarterly Review with Leadership",
+      "timestamp": "2024-07-26T14:00:00Z",
+      "body": "Dear [Your Name],\n\nYou are invited to the Quarterly Review with Leadership. This meeting will take place on August 15th at 2 PM in Conference Room A. Please RSVP by August 1st. An agenda will be sent out closer to the date.\n\nWe look forward to your participation.\n\nSincerely,\nMeeting Coordinator",
+      "category": "Meeting Request",
+      "actionItems": [
+        { "task": "RSVP for Quarterly Review with Leadership", "deadline": "August 1st" }
+      ]
+    },
+    {
+      "id": "e6",
+      "sender": "Internal Comms <comms@company.com>",
+      "subject": "Company Picnic - Save the Date!",
+      "timestamp": "2024-07-25T09:00:00Z",
+      "body": "Hi Team,\n\nGet ready for some fun in the sun! Our annual Company Picnic will be held on September 10th at Central Park. More details on food, activities, and RSVP will follow next month. For now, just mark your calendars!\n\nBest,\nInternal Comms",
+      "category": "Newsletter"
+    },
+    {
+      "id": "e7",
+      "sender": "Support <support@software.co>",
+      "subject": "Your Recent Support Ticket #12345",
+      "timestamp": "2024-07-26T16:20:00Z",
+      "body": "Dear Customer,\n\nThis is an update regarding your support ticket #12345. Our team is actively investigating the issue. We aim to provide a resolution within 48 hours. Thank you for your patience.\n\nIf you have any further information, please reply to this email.\n\nSincerely,\nSoftware Support Team",
+      "category": "Important"
+    },
+    {
+      "id": "e8",
+      "sender": "Jane Doe <jane.doe@partner.org>",
+      "subject": "Follow-up on Q3 Collaboration",
+      "timestamp": "2024-07-26T11:00:00Z",
+      "body": "Hi [Your Name],\n\nHope you're having a good week. I wanted to follow up on our discussion regarding the Q3 collaboration. Could you send over the updated proposal by end of day tomorrow? We need to finalize the budget before our internal review.\n\nThanks,\nJane",
+      "category": "To-Do",
+      "actionItems": [
+        { "task": "Send updated proposal", "deadline": "end of day tomorrow" }
+      ]
+    },
+    {
+      "id": "e9",
+      "sender": "Bank Security <security@mybank.com>",
+      "subject": "Security Alert: Unusual Activity on Your Account",
+      "timestamp": "2024-07-26T18:05:00Z",
+      "body": "Dear Customer,\n\nWe detected unusual activity on your account. For your security, please verify your account details by clicking the link below:\n\n[phishing_link]\n\nFailure to do so may result in account suspension.",
+      "category": "Spam"
+    },
+    {
+      "id": "e10",
+      "sender": "Marketing Team <marketing@company.com>",
+      "subject": "New Product Launch Marketing Strategy - Input Needed",
+      "timestamp": "2024-07-25T14:30:00Z",
+      "body": "Hello Everyone,\n\nThe marketing team is finalizing the strategy for the upcoming new product launch. We need your feedback on the proposed messaging and target audience segments. Please provide your comments on the shared Google Doc by Friday.\n\nLink to Google Doc: [link_to_doc]\n\nThanks,\nMarketing Team",
+      "category": "Project Update",
+      "actionItems": [
+        { "task": "Provide comments on Google Doc for new product launch marketing strategy", "deadline": "Friday" }
+      ]
+    },
+    {
+      "id": "e11",
+      "sender": "HR Department <hr@company.com>",
+      "subject": "Your Annual Performance Review Scheduled",
+      "timestamp": "2024-07-26T15:00:00Z",
+      "body": "Dear [Your Name],\n\nThis email confirms your annual performance review has been scheduled for September 5th at 10 AM. Please prepare a list of your accomplishments and development goals for the past year.\n\nFurther details and a meeting invitation will follow. Please let us know if this time does not work for you.\n\nBest regards,\nHR Department",
+      "category": "Important",
+      "actionItems": [
+        { "task": "Prepare list of accomplishments and development goals", "deadline": "September 5th" }
+      ]
+    },
+    {
+      "id": "e12",
+      "sender": "System Admin <admin@company.com>",
+      "subject": "Mandatory Software Update Notification",
+      "timestamp": "2024-07-26T08:00:00Z",
+      "body": "Attention Staff,\n\nA mandatory software update for all workstations will be deployed on August 1st. Please ensure your computers are left on overnight on July 31st to receive the update. Failure to do so may result in service interruptions.\n\nContact IT support if you have any questions.\n\nThank you,\nSystem Admin",
+      "category": "Important"
+    },
+    {
+      "id": "e13",
+      "sender": "External Vendor <vendor@external.com>",
+      "subject": "Invoice for Services Rendered - #20240725",
+      "timestamp": "2024-07-25T13:00:00Z",
+      "body": "Dear Accounts Payable,\n\nPlease find attached invoice #20240725 for services rendered in July. The total amount due is $1,500.00, with payment expected by August 24th.\n\nYour prompt attention to this is appreciated.\n\nSincerely,\nExternal Vendor",
+      "category": "To-Do",
+      "actionItems": [
+        { "task": "Process invoice #20240725 for $1,500.00", "deadline": "August 24th" }
+      ]
+    },
+    {
+      "id": "e14",
+      "sender": "Colleague A <colleague.a@company.com>",
+      "subject": "Quick question about the new dashboard",
+      "timestamp": "2024-07-26T10:15:00Z",
+      "body": "Hi,\n\nHope you're well. I had a quick question about the new analytics dashboard. When refreshing the data, I sometimes get an error message. Could you take a look when you have a moment?\n\nThanks!\nColleague A",
+      "category": "To-Do",
+      "actionItems": [
+        { "task": "Look into error message on new analytics dashboard" }
+      ]
+    },
+    {
+      "id": "e15",
+      "sender": "Marketing Promo <promo@deals.net>",
+      "subject": "FLASH SALE! Limited Stock Available!",
+      "timestamp": "2024-07-26T13:00:00Z",
+      "body": "🔥 Don't miss out on our incredible flash sale! 🔥\n\nUp to 70% off selected items. This offer is valid for the next 6 hours only. Act fast before it's gone!\n\nShop now: [link_to_sale]",
+      "category": "Spam"
+    },
+    {
+      "id": "e16",
+      "sender": "Team Lead <team.lead@company.com>",
+      "subject": "Weekly Standup Reminder + Agenda Items",
+      "timestamp": "2024-07-26T09:00:00Z",
+      "body": "Hi Team,\n\nJust a reminder for our weekly standup today at 9:30 AM. Please come prepared to share your progress, blockers, and what you'll be working on today.\n\nI've added two new items to the agenda: the Q3 budget review and planning for the upcoming team-building event. Please take a quick look at the attached document for Q3 budget. I'll need your thoughts during the meeting.\n\nSee you there,\nTeam Lead",
+      "category": "Meeting Request",
+      "actionItems": [
+        { "task": "Prepare for weekly standup (progress, blockers, daily work)", "deadline": "today 9:30 AM" },
+        { "task": "Review attached document for Q3 budget", "deadline": "today 9:30 AM" }
+      ]
+    },
+    {
+      "id": "e17",
+      "sender": "Project Coordinator <project.coord@company.com>",
+      "subject": "Urgent: Deadline for Feature X moved up!",
+      "timestamp": "2024-07-26T16:00:00Z",
+      "body": "Team,\n\nDue to new client requirements, the deadline for Feature X has been moved up to next Wednesday. This is a critical change. Please adjust your schedules accordingly and prioritize tasks related to Feature X. I will be available for any questions or re-planning sessions needed.\n\nThanks for your flexibility,\nProject Coordinator",
+      "category": "Project Update",
+      "actionItems": [
+        { "task": "Adjust schedule for Feature X", "deadline": "next Wednesday" },
+        { "task": "Prioritize tasks related to Feature X", "deadline": "next Wednesday" }
+      ]
+    },
+    {
+      "id": "e18",
+      "sender": "Research Group <research@institute.edu>",
+      "subject": "New Publication Alert: Advances in Renewable Energy",
+      "timestamp": "2024-07-26T12:00:00Z",
+      "body": "Dear Researchers,\n\nWe are pleased to announce the publication of our latest findings on advances in renewable energy technologies. The full paper is available for download on our portal.\n\nAbstract:\n[Abstract text here...]\n\nRead more: [link_to_paper]\n\nBest regards,\nResearch Group",
+      "category": "Newsletter"
+    },
+    {
+      "id": "e19",
+      "sender": "HR Update <hr.update@company.com>",
+      "subject": "Important: New Company Policy on Remote Work",
+      "timestamp": "2024-07-26T10:45:00Z",
+      "body": "Dear Employees,\n\nThis email outlines our updated company policy regarding remote work arrangements, effective August 1st. All employees are required to review the new policy document carefully.\n\nKey changes include updated guidelines for hybrid schedules and a new request process for fully remote positions. A Q&A session will be held next Tuesday at 3 PM.\n\nAttached: New Remote Work Policy.pdf\n\nThank you,\nHR Department",
+      "category": "Important",
+      "actionItems": [
+        { "task": "Review new remote work policy document", "deadline": "August 1st" },
+        { "task": "Attend Q&A session on new policy", "deadline": "next Tuesday at 3 PM" }
+      ]
+    },
+    {
+      "id": "e20",
+      "sender": "Your Credit Card <noreply@card.com>",
+      "subject": "Action Required: Verify Your Credit Card Information",
+      "timestamp": "2024-07-26T07:30:00Z",
+      "body": "Dear Cardholder,\n\nOur records indicate that your credit card information needs to be verified to prevent service interruption. Please click on the secure link below to update your details:\n\n[phishing_link]\n\nThis is a mandatory step.",
+      "category": "Spam"
+    }
+  ]
+}

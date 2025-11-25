@@ -1,0 +1,4 @@
+{
+  "name": "Email Productivity Agent",
+  "description": "An intelligent, prompt-driven Email Productivity Agent capable of processing an inbox, categorizing emails, extracting action items, auto-drafting replies, and allowing chat-based inbox interaction using the Gemini API."
+}
