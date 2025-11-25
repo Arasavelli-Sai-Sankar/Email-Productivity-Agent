@@ -1,8 +1,8 @@
-Email Productivity Agent
+## Email Productivity Agent
 
 ## Student Name:
 
-<Arasavelli Sai Sankar>
+Arasavelli Sai Sankar
 
 ## Project Title:
 
@@ -95,11 +95,8 @@ I confirm that this project was independently developed by me and Gemini AI Stud
 
 ## GitHub Repository
 
-<https://github.com/Arasavelli-Sai-Sankar/Email-Productivity-Agent>
+https://github.com/Arasavelli-Sai-Sankar/Email-Productivity-Agent
 
-## Video Demonstration
-
-<PASTE YOUR GOOGLE DRIVE VIDEO LINK HERE>
 
 
 ---
