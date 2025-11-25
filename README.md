@@ -1,4 +1,4 @@
-# OceanAI Assignment - Email Productivity Agent
+Email Productivity Agent
 
 ## Student Name:
 
